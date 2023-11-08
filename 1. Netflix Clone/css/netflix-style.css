@@ -146,7 +146,7 @@
     bottom: 0;
   }
 
-  @media (max-width: 600px) {
+  @media (max-width: 768px) {
     .netflix-logo {
       width: 100px;
       height: fit-content;
