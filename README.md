@@ -1,4 +1,6 @@
-# Netflix Clone Project (Live Preview : https://netflix-clone-gowtham.vercel.app/ )
+# Netflix Clone Project :
+
+Live Preview : https://netflix-clone-gowtham.vercel.app/
 
 - This project is a simple Netflix clone with a responsive homepage, banner, and navigation bar.
 - Built using HTML and CSS.
