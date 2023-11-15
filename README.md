@@ -1,4 +1,4 @@
-# Netflix Clone Project :
+# 1. Netflix Clone Project :
 
 Live Preview : https://netflix-clone-gowtham.vercel.app/
 
@@ -16,3 +16,5 @@ Click on "Play" or "More Info" in the banner section.
 index.html: Main HTML file.
 css/homepage-style.css: Stylesheet.
 images/: Directory for project images.
+
+**Note** : Part of CodersCave Internship Projects
